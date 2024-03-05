@@ -3,7 +3,7 @@ package StudentPackage;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class StudentClassMain {
+public class StudentMain {
     
     public static void main(String[] args){
         Student student1;
