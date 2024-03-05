@@ -1,7 +1,7 @@
 package StudentPackage;
 
 import java.util.Scanner;
-import java.util.InputMismatchException;
+import java.util.InputMismatchException; // Import InputMismatchException class
 
 public class StudentMain {
     
@@ -20,7 +20,7 @@ public class StudentMain {
                     student1 = new Student("Jemar Jude", "Maranga", 17);
                     System.out.println(student1);
                     break;
-                case 2:
+               case 2:
                     System.out.println("Test Case 2: Increase age of student1");
                     student1 = new Student("Jemar Jude", "Maranga", 17);
                     student1.increaseAge();
