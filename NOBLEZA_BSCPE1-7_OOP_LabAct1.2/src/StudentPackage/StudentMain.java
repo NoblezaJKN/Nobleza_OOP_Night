@@ -2,7 +2,7 @@
 package StudentPackage;
 
 import java.util.Scanner;
-import java.util.InputMismatchException; // Import InputMismatchException class
+import java.util.InputMismatchException;
 
 public class StudentMain {
     
